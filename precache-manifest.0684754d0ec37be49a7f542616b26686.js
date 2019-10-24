@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "121bc90305db64cec9edc12cb6e26c1d",
+    "revision": "3288c2084a9f1f084d8914733f2521e0",
     "url": "/rankcare-client/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rankcare-client/static/css/2.09496823.chunk.css"
   },
   {
-    "revision": "bb6c2033738b2ab062b2",
+    "revision": "41ca5ea54bc9b9e1f791",
     "url": "/rankcare-client/static/css/main.97b1fdfc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rankcare-client/static/js/2.81d14448.chunk.js"
   },
   {
-    "revision": "bb6c2033738b2ab062b2",
-    "url": "/rankcare-client/static/js/main.b7467520.chunk.js"
+    "revision": "41ca5ea54bc9b9e1f791",
+    "url": "/rankcare-client/static/js/main.9728bfc7.chunk.js"
   },
   {
     "revision": "662c5268137832b371fc",
