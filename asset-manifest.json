@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/login/static/css/main.e35a39af.chunk.css",
-    "main.js": "/login/static/js/main.cf17fb13.chunk.js",
-    "main.js.map": "/login/static/js/main.cf17fb13.chunk.js.map",
-    "runtime~main.js": "/login/static/js/runtime~main.2995c40b.js",
-    "runtime~main.js.map": "/login/static/js/runtime~main.2995c40b.js.map",
-    "static/css/2.09496823.chunk.css": "/login/static/css/2.09496823.chunk.css",
-    "static/js/2.89813c2e.chunk.js": "/login/static/js/2.89813c2e.chunk.js",
-    "static/js/2.89813c2e.chunk.js.map": "/login/static/js/2.89813c2e.chunk.js.map",
-    "index.html": "/login/index.html",
-    "precache-manifest.e72b3b948e7b08f6eaf4ce8d5e06b8b8.js": "/login/precache-manifest.e72b3b948e7b08f6eaf4ce8d5e06b8b8.js",
-    "service-worker.js": "/login/service-worker.js",
-    "static/css/2.09496823.chunk.css.map": "/login/static/css/2.09496823.chunk.css.map",
-    "static/css/main.e35a39af.chunk.css.map": "/login/static/css/main.e35a39af.chunk.css.map",
-    "static/media/crc_logo.png": "/login/static/media/crc_logo.f3669c91.png",
-    "static/media/AppHeader.css": "/login/static/media/header_bg.240c7548.png",
-    "static/media/logo.png": "/login/static/media/logo.be5ea3ab.png"
+    "main.css": "/rankcare-client/static/css/main.97b1fdfc.chunk.css",
+    "main.js": "/rankcare-client/static/js/main.b7467520.chunk.js",
+    "main.js.map": "/rankcare-client/static/js/main.b7467520.chunk.js.map",
+    "runtime~main.js": "/rankcare-client/static/js/runtime~main.09430ab2.js",
+    "runtime~main.js.map": "/rankcare-client/static/js/runtime~main.09430ab2.js.map",
+    "static/css/2.09496823.chunk.css": "/rankcare-client/static/css/2.09496823.chunk.css",
+    "static/js/2.81d14448.chunk.js": "/rankcare-client/static/js/2.81d14448.chunk.js",
+    "static/js/2.81d14448.chunk.js.map": "/rankcare-client/static/js/2.81d14448.chunk.js.map",
+    "index.html": "/rankcare-client/index.html",
+    "precache-manifest.ffacb4cfe48d4ef837d8945bf0a2c628.js": "/rankcare-client/precache-manifest.ffacb4cfe48d4ef837d8945bf0a2c628.js",
+    "service-worker.js": "/rankcare-client/service-worker.js",
+    "static/css/2.09496823.chunk.css.map": "/rankcare-client/static/css/2.09496823.chunk.css.map",
+    "static/css/main.97b1fdfc.chunk.css.map": "/rankcare-client/static/css/main.97b1fdfc.chunk.css.map",
+    "static/media/crc_logo.png": "/rankcare-client/static/media/crc_logo.f3669c91.png",
+    "static/media/AppHeader.css": "/rankcare-client/static/media/header_bg.240c7548.png",
+    "static/media/logo.png": "/rankcare-client/static/media/logo.be5ea3ab.png"
   }
 }
