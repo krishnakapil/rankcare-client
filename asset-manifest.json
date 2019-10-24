@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rankcare-client/static/css/main.97b1fdfc.chunk.css",
-    "main.js": "/rankcare-client/static/js/main.b7467520.chunk.js",
-    "main.js.map": "/rankcare-client/static/js/main.b7467520.chunk.js.map",
-    "runtime~main.js": "/rankcare-client/static/js/runtime~main.09430ab2.js",
-    "runtime~main.js.map": "/rankcare-client/static/js/runtime~main.09430ab2.js.map",
-    "static/css/2.09496823.chunk.css": "/rankcare-client/static/css/2.09496823.chunk.css",
-    "static/js/2.81d14448.chunk.js": "/rankcare-client/static/js/2.81d14448.chunk.js",
-    "static/js/2.81d14448.chunk.js.map": "/rankcare-client/static/js/2.81d14448.chunk.js.map",
-    "index.html": "/rankcare-client/index.html",
-    "precache-manifest.ffacb4cfe48d4ef837d8945bf0a2c628.js": "/rankcare-client/precache-manifest.ffacb4cfe48d4ef837d8945bf0a2c628.js",
-    "service-worker.js": "/rankcare-client/service-worker.js",
-    "static/css/2.09496823.chunk.css.map": "/rankcare-client/static/css/2.09496823.chunk.css.map",
-    "static/css/main.97b1fdfc.chunk.css.map": "/rankcare-client/static/css/main.97b1fdfc.chunk.css.map",
-    "static/media/crc_logo.png": "/rankcare-client/static/media/crc_logo.f3669c91.png",
-    "static/media/AppHeader.css": "/rankcare-client/static/media/header_bg.240c7548.png",
-    "static/media/logo.png": "/rankcare-client/static/media/logo.be5ea3ab.png"
+    "main.css": "/static/css/main.e539352b.chunk.css",
+    "main.js": "/static/js/main.0616491f.chunk.js",
+    "main.js.map": "/static/js/main.0616491f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.fec950c5.js",
+    "runtime~main.js.map": "/static/js/runtime~main.fec950c5.js.map",
+    "static/css/2.09496823.chunk.css": "/static/css/2.09496823.chunk.css",
+    "static/js/2.24ef3058.chunk.js": "/static/js/2.24ef3058.chunk.js",
+    "static/js/2.24ef3058.chunk.js.map": "/static/js/2.24ef3058.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73adcedddaef60a19b3dba6c0568ae4f.js": "/precache-manifest.73adcedddaef60a19b3dba6c0568ae4f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.09496823.chunk.css.map": "/static/css/2.09496823.chunk.css.map",
+    "static/css/main.e539352b.chunk.css.map": "/static/css/main.e539352b.chunk.css.map",
+    "static/media/crc_logo.png": "/static/media/crc_logo.f3669c91.png",
+    "static/media/AppHeader.css": "/static/media/header_bg.240c7548.png",
+    "static/media/logo.png": "/static/media/logo.be5ea3ab.png"
   }
 }
