@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rankcare-client/precache-manifest.1530fc80fb100f06e8bfffd2fa30e183.js"
+  "/rankcare-client/precache-manifest.fad5ace11c9244fc7b17530fa5edc596.js"
 );
 
 self.addEventListener('message', (event) => {
